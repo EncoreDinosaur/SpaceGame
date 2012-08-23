@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=health\ x\ y
+comment0.target=Enemy(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

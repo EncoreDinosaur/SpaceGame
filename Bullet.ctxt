@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=speed\ damage
+comment0.target=Bullet(int,\ int)
+comment1.params=
+comment1.target=int\ getSpeed()
+comment2.params=
+comment2.target=int\ getDamage()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5

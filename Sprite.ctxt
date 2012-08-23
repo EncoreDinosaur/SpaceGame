@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=health\ x\ y
+comment0.target=Sprite(int,\ int,\ int)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=hpChange
+comment3.target=void\ changeHealth(int)
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=horizontal
+comment7.target=void\ shiftX(int)
+comment8.params=vertical
+comment8.target=void\ shiftY(int)
+numComments=9
